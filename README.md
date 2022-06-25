@@ -36,5 +36,8 @@ Capture various resources related to mobile security field
 | --- | --- | --- |
 | [Github](https://github.com/) | [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) | An effort to build a single place for all useful android and iOS security related stuff |
 | [Github](https://github.com/) | [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) | A collection of android security related resources |
+| [Github](https://github.com/) | [jdonsec/AllThingsAndroid](https://github.com/jdonsec/AllThingsAndroid) | A collection of Android Pentest Learning Materials |
+| [Github](https://github.com/) | [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) | A big list of Android Hackerone disclosed reports and other resources |
 | [Pentesttools.net](https://pentesttools.net/) | [Android Security Materials And Resources](https://pentesttools.net/awesome-android-security-android-security-materials-and-resources/) | A curated list of Android Security materials and resources For Pentesters and Bug Hunters |
-
+| [blog.deesee.xyz](https://blog.deesee.xyz/) | [Android Application Hacking Resources](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html) | Learning about Android application security |
+| [manifestsecurity](https://manifestsecurity.com/) | [Android Application Security 1-26](https://manifestsecurity.com/android-application-security/) | Android Application Security Series |
