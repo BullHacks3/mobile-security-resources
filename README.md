@@ -13,6 +13,13 @@ Capture various resources related to mobile security field
 ## Videos
 | Date Uploaded | Channel | Video Link | 
 | --- | --- | --- |
+| 27-Sep-2020 |	B3nacSec |	[Exploiting Android deep links and exported components -  Ekoparty Mobile Hacking Space Talk](https://www.youtube.com/watch?v=lg1sN8njSYs&ab_channel=B3nacSec) |
+| 7-Aug-2020 | B3nacSec |	[Android Application Exploitation - DEF CON Safe Mode Red Team Village](https://www.youtube.com/watch?v=AqVMfZAboCg&ab_channel=B3nacSec) |
+| 21-May-2020 |	maddiestone |	[Android App Reverse Engineering (Almost Live!) - Part 2](https://www.youtube.com/watch?v=xBk_2_JiCSg&ab_channel=maddiestone) |
+| 24-Apr-2020 |	maddiestone |	[Android App Reverse Engineering LIVE! - Part 1](https://www.youtube.com/watch?v=BijZmutY0CQ&ab_channel=maddiestone) |
+| 19-Apr-2020 |	B3nacSec |	[Android Hacking VirSecCon2020 talk](https://www.youtube.com/watch?v=mr64si_-YwI&ab_channel=B3nacSec) |
+| 15-Jan-2020 |	BlackHat |	[Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://www.youtube.com/watch?v=U6qTcpCfuFc&ab_channel=BlackHat) |
+| 10-Oct-2019 |	Bugcrowd |	[Overview of common Android app vulnerabilities - LevelUp 0x05](https://www.youtube.com/watch?v=51S8PeuzlmI&ab_channel=Bugcrowd) |
 | 26-Sep-2019 | OWASPBayArea | [Mobile AppSec 101](https://www.youtube.com/watch?v=g9vVjWkkfSM&ab_channel=OWASPBayArea)
 | 23-Oct-2018 | DEFCONConference | [DEF CON 26 - Nevermoe - One Step Ahead of Cheaters Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4&ab_channel=DEFCONConference)
 | 23-Oct-2018 | DEFCONConference | [DEF CON 26 - Johnson and Stavrou - Vulnerable Out of the Box - Evaluation of Android Carrier Devices](https://www.youtube.com/watch?v=R2brQvQeTvM&ab_channel=DEFCONConference)
