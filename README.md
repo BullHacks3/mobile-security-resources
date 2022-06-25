@@ -22,3 +22,19 @@ Capture various resources related to mobile security field
 | 9-Aug-2016 | SecureSet | [Security 101 Workshop: Mobile Security](https://www.youtube.com/watch?v=2KZfO1ZD0Og&ab_channel=SecureSet)
 | 17-Sep-2015 | AndroidSecurityResearch | [Android security architecture (by Nikolay Elenkov)](https://www.youtube.com/watch?v=3asW-nBU-JU&ab_channel=AndroidSecurityResearch)
 | 3-Apr-2015 | BlackHat | [Hide Android Applications in Images](https://www.youtube.com/watch?v=hajOlvLhYJY&ab_channel=BlackHat)
+
+
+## Books
+
+| Year Published | Name | Author |
+| --- | --- | --- |
+
+
+## Other resources
+
+| Website | Name | Purpose |
+| --- | --- | --- |
+| [Github](https://github.com/) | [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) | An effort to build a single place for all useful android and iOS security related stuff |
+| [Github](https://github.com/) | [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) | A collection of android security related resources |
+| [Pentesttools.net](https://pentesttools.net/) | [Android Security Materials And Resources](https://pentesttools.net/awesome-android-security-android-security-materials-and-resources/) | A curated list of Android Security materials and resources For Pentesters and Bug Hunters |
+
