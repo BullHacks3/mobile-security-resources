@@ -36,6 +36,15 @@ Capture various resources related to mobile security field
 | Year Published | Name | Author |
 | --- | --- | --- |
 
+## Blogs
+
+| Company | Category | Purpose |
+| --- | --- | --- |
+| Meta (Facebook) | [Infrastructure Systems - Security](https://engineering.fb.com/category/security/) | Security realted blogs@Meta |
+| Security (Google) | [Security - Google](https://security.googleblog.com/) | Security blogs@Google |
+
+
+
 
 ## Other resources
 
@@ -48,3 +57,4 @@ Capture various resources related to mobile security field
 | [Pentesttools.net](https://pentesttools.net/) | [Android Security Materials And Resources](https://pentesttools.net/awesome-android-security-android-security-materials-and-resources/) | A curated list of Android Security materials and resources For Pentesters and Bug Hunters |
 | [blog.deesee.xyz](https://blog.deesee.xyz/) | [Android Application Hacking Resources](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html) | Learning about Android application security |
 | [manifestsecurity](https://manifestsecurity.com/) | [Android Application Security 1-26](https://manifestsecurity.com/android-application-security/) | Android Application Security Series |
+| [hacker101](https://www.hacker101.com/) | [Hacker101: Mobile Hacking](https://www.hacker101.com/playlists/mobile_hacking.html) | Hackerone Mobile Hacking Resources
